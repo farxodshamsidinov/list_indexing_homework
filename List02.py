@@ -7,4 +7,4 @@ def main(list1):
         list: return answer
     """
     a=(list[0])
-    return
+    return 
