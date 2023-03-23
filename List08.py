@@ -6,4 +6,6 @@ def main(list1):
     Returns:
         list: return answer
     """
-    return
+    list1[1]=True
+    list1[0]=False
+    return list1
